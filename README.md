@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Gianluca Vinci
+- 👀 I’m interested in OOP languages and back-end programming
